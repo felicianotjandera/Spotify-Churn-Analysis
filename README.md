@@ -43,5 +43,5 @@ The primary challenge for subscription-based services like Spotify is customer r
 ## 🚀 How to Run
 
 1.  **View the Dashboard:** The main dashboard screenshot is included above.
-2.  **Explore the Power BI File:** Download the `Dashboard Spotify.pbix` file and open it with Power BI Desktop to interact with the full dashboard.
-3.  **Run the Python Code:** Open the `analisis_spotify.ipynb` file using Jupyter Notebook to review the data cleaning and analysis process.
+2.  **Explore the Power BI File:** Download the `Spotify.pbix` file and open it with Power BI Desktop to interact with the full dashboard.
+3.  **Run the Python Code:** Open the `Spotify_Churn.ipynb` file using Jupyter Notebook to review the data cleaning and analysis process.
