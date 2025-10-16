@@ -4,9 +4,9 @@ An exploratory data analysis project to identify key behavioral drivers of custo
 
 ---
 
-##  dashboards
+##  Dashboards
 
-![Screenshot of the Spotify Dashboard](Spotify_Churn_Dasboard.png)
+![Screenshot of the Spotify Dashboard](Spotify_Churn_Dashboard.png)
 
 ---
 
