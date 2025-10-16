@@ -6,7 +6,7 @@ An exploratory data analysis project to identify key behavioral drivers of custo
 
 ##  Dashboards
 
-![Dashboard Screenshot](Spotify_Churn_Dashboard.png)
+![Dashboard Screenshot](Spotify-Churn-Analysis/Spotify_Churn_Dashboard.png)
 
 ---
 
