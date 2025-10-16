@@ -6,7 +6,7 @@ An exploratory data analysis project to identify key behavioral drivers of custo
 
 ##  Dashboards
 
-![Screenshot of the Spotify Dashboard](Spotify_Churn_Dashboard.png)
+![Dashboard Screenshot](Spotify_Churn_Dashboard.png)
 
 ---
 
@@ -18,8 +18,8 @@ The primary challenge for subscription-based services like Spotify is customer r
 
 ## 🛠️ Workflow
 
-1.  **Data Cleaning & Transformation (Python):** The raw data from `spotify_churn_dataset.csv` was cleaned and processed using the Pandas library in Python. This process included removing irrelevant data, renaming columns for clarity, and creating new, more insightful categories (e.g., grouping subscription types into "Free vs. Paid").
-2.  **Visualization & Dashboard (Power BI):** The cleaned data was then exported to a new CSV file and imported into Power BI. An interactive dashboard was built to visualize the key findings, featuring slicers for dynamic data exploration.
+1.  **Data Cleaning & Transformation (Python):** The raw data from `spotify_churn_dataset.csv` was cleaned and processed using the Pandas library in Python. This process included removing irrelevant data, and renaming columns for clarity.
+2.  **Visualization & Dashboard (Power BI):** The cleaned data was then exported to a new CSV file `spotify_churn_clean.csv` and imported into Power BI. An interactive dashboard was built to visualize the key findings, featuring slicers for dynamic data exploration.
 
 ---
 
@@ -34,7 +34,7 @@ The primary challenge for subscription-based services like Spotify is customer r
 ## 🔧 Tools Used
 
 * **Python:** For data cleaning and transformation.
-    * *Libraries:* Pandas, Matplotlib, Seaborn, Scikit-learn
+    * *Libraries:* Pandas
 * **Power BI:** For creating the interactive dashboard.
     * *Language:* DAX (for creating measures like Churn Rate)
 
